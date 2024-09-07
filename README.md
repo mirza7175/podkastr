@@ -9,11 +9,12 @@
 Listeners can enjoy seamless playback with a modern and responsive player, complete with advanced controls for an uninterrupted audio experience. Whether you’re a creator looking to launch new podcasts or a listener searching for the latest trends, this platform combines powerful AI capabilities with an intuitive interface, making podcasting accessible and engaging for everyone.
 
 ## 📖 Table of Contents
-- [Tech Stack](https://github.com/mirza7175/podkastr/edit/main/README.md#%EF%B8%8F-tech-stack)
-- [Features](https://github.com/mirza7175/podkastr/edit/main/README.md#-features)
-- [Quick Start](https://github.com/mirza7175/podkastr/edit/main/README.md#-quick-start)
-- [Screen Shots](https://github.com/mirza7175/podkastr/edit/main/README.md#screen-shots)
-- [Notes](https://github.com/mirza7175/podkastr/edit/main/README.md#-notes)
+- Tech Stack
+- Features
+- Quick Start
+- Screen Shots
+- Notes
+  
 ## ⚙️ Tech Stack
 
 - **Next.js**: React framework for server-side rendering and optimized performance.
